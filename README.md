@@ -1,4 +1,4 @@
-AlbedoBot
+Albedo-Bot
 --
 <a href="https://visitor-badge.glitch.me/badge?page_id=RaaaGH/Albedo-BOT"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=RaaaGH/Albedo-BOT"></a>
 <a href="https://github.com/RaaaGH/Albedo-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RaaaGH/Albedo-BOT?label=Forks&color=blue&style=flat-square"></a>
